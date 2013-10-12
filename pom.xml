@@ -5,7 +5,7 @@
 	<artifactId>1-2-1-columns-prvaci-layouttpl</artifactId>
 	<packaging>war</packaging>
 	<name>1-2-1 Columns (30/70)</name>
-	<version>1.0</version>
+	<version>6.1.2</version>
 
 	<parent>
 		<groupId>eu.prvaci</groupId>
